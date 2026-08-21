@@ -21,3 +21,4 @@ Notes and usage details for fswatcher.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
